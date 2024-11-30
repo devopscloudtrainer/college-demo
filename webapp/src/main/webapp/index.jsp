@@ -17,7 +17,7 @@ div.scroll-container img {
 </head>
 <body style="background: #FFFFC5">
 <h1 align="center" style="color:blue">SRISH Technologies</h1>
-<h2 align="center" style="color:blue"> DevOps | AWS | Azure | GCP | Linux | Java Full Stack | Power BI</h2>
+<h2 align="center" style="color:blue"> DevOps | AWS | Azure | GCP | Linux | Java Full Stack | Power BI | SRE</h2>
 <h2 align="center" style="color:blue">9515132351 || 9515222069 || trainings@srishsoft.com || https://srishsoft.com</h2>
 <hr>
 <h1 align="center" style="color:red">Offered Courses</h1>
@@ -51,7 +51,7 @@ div.scroll-container img {
   <img src="./images/image16.jpeg" alt="image16" width="300" height="200">
 </div>
 <hr>
-<h1 align="center" style="color:green">SRISH's Will do bellow Live Projects Implementation as part of Training</h1>
+<h1 align="center" style="color:green">SRISH's Provides RealTime Industry Supporting Live Projects Implementation as part of Training</h1>
 <!--<div align="center">
   <img src="https://aug02pub.s3.ap-south-1.amazonaws.com/Project+-+2.jpg" alt="Cinque Terre" height="500" align="center">
   <hr>
